@@ -1,3 +1,3 @@
 # 212-final
 
-Main.ipynb: file to process audios
+Main.ipynb: file to process audios using ParselMouth
